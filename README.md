@@ -1,5 +1,9 @@
 # File Shredder Using Shamir's Secret Sharing
 
+**Report.pdf** is in the above repo.
+
+---
+
 ## Team Members
 - **Saahil Mishra** (22BCS105)
 - **Rohit** (22BCS100)
