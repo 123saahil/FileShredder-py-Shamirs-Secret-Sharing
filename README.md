@@ -1,6 +1,5 @@
 # File Shredder Using Shamir's Secret Sharing
 
-**Report.pdf** is in the above repo.
 
 ---
 
@@ -13,6 +12,8 @@
 ---
 
 ## About the Project
+**Report.pdf** is in the above repo.
+
 The **File Shredder using Shamir's Secret Sharing** project is implemented in **Python**. It provides a secure tool for file encryption, shredding, and key distribution using **Shamir’s Secret Sharing Scheme (SSS)**. By combining AES encryption with SSS, the project ensures file security and enables secure key reconstruction with a predefined threshold of shares.
 
 ---
